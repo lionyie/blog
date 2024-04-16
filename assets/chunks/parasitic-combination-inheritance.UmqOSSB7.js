@@ -1,0 +1,1 @@
+const s="/blog/assets/combination-inheritance.D_afNgzS.png",o="/blog/assets/prototypal-inheritance.CpnlogoH.png",t="/blog/assets/parasitic-combination-inheritance.C_7NPdXE.png";export{s as _,o as a,t as b};

@@ -1,0 +1,1 @@
+const s="/blog/assets/prototype.C0UPi_14.png",o="/blog/assets/constructor.BQvlqsjo.png",t="/blog/assets/proto__.DFE4AD3M.png",p="/blog/assets/prototype-chain.i1p50Z_Q.png",_="/blog/assets/prototypes-1.DaMPQRER.jpg";export{s as _,o as a,t as b,p as c,_ as d};
