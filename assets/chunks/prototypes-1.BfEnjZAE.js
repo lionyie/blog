@@ -1,1 +1,0 @@
-const s="/assets/prototype.C0UPi_14.png",t="/assets/constructor.BQvlqsjo.png",o="/assets/proto__.DFE4AD3M.png",p="/assets/prototype-chain.i1p50Z_Q.png",_="/assets/prototypes-1.DaMPQRER.jpg";export{s as _,t as a,o as b,p as c,_ as d};
